@@ -3,7 +3,7 @@
 Project Shikigami
 ---------------
 
-[![Download Shikigami](https://img.shields.io/badge/Downloads-6.2M-green.svg)](#)
+[![Download Shikigami](https://img.shields.io/badge/coming%20soon-blue)](#)
 
 > Welcome to Project Shikigami!
 
