@@ -5,7 +5,7 @@ Project Shikigami
 
 [![Download Shikigami](https://img.shields.io/badge/coming%20soon-blue)](#)
 
-> Welcome to Project Shikigami!
+> Welcome to Project Pixilian!
 
 > We are just an another AOSP fork Project with little changes backed with our android community
 
